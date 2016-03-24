@@ -83,7 +83,7 @@ public class PerformanceSettings extends SettingsPreferenceFragment {
         // 3. never show individual processor control if profiles enabled
 
         PreferenceCategory category = (PreferenceCategory) prefSet.findPreference(CATEGORY_PROFILES);
-        if (!mPowerManager.hasPowerProfiles()) {
+        if (mPowerManager.hasPowerProfiles()) {
             prefSet.removePreference(category);
         } else {
             ((PreferenceCategory) prefSet.findPreference(CATEGORY_SYSTEM)).removePreference(
