@@ -16,4 +16,8 @@
     <string name="lockscreen_wallpaper_title">Wallpaper</string>
     <string name="lockscreen_wallpaper_summary">Set lockscreen wallpaper</string>
 
+    <string name="battery_saver_color_title">Hide color of battery saver</string>
+    <string name="battery_saver_color_summary">Disable coloring status and navigation bars when battery saver is activated</string>
+ 
+
 </resources>
