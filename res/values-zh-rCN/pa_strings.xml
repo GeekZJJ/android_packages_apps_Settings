@@ -19,4 +19,8 @@
     <string name="battery_saver_color_title">隐藏节电助手的状态栏颜色</string>
     <string name="battery_saver_color_summary">禁止节电助手改变状态栏和导航栏颜色</string>
  
+    <!-- Double tap gesture anywhere on the lock screen put device to sleep -->
+    <string name="double_tap_sleep_anywhere_title">锁屏界面双击关屏</string>
+    <string name="double_tap_sleep_anywhere_summary">在锁屏界面任意位置双击以关闭屏幕</string>
+
 </resources>
