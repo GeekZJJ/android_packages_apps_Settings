@@ -76,5 +76,9 @@
     <!-- Disable Camera Shutter Sound -->
     <string name="camera_sounds_title">Camera shutter sound</string>
 
+    <!-- Toast Icons -->
+    <string name="toast_icon_title">Toast icon</string>
+    <string name="toast_icon_summary">Toggle the toast icon on or off</string>
+
 </resources>
 

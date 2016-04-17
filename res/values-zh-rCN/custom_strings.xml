@@ -76,5 +76,9 @@
     <!-- Disable Camera Shutter Sound -->
     <string name="camera_sounds_title">相机快门提示音</string>
 
+    <!-- Toast Icons -->
+    <string name="toast_icon_title">吐司图标</string>
+    <string name="toast_icon_summary">是否显示吐司图标</string>
+
 </resources>
 
